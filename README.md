@@ -29,7 +29,7 @@ If you are looking to collaborate on a project, contribute to open-source, or si
 
 Here are some of the projects I’ve worked on that demonstrate my skills in full-stack web development:
 
-### 1. [Parliamentary Jordanian Election System](https://github.com/roe-sh/Election-Project)
+### 1. [Parliamentary Jordanian Election System](https://github.com/roe-sh/project3)
 A comprehensive platform for **online voting** and **real-time election result processing** using **ASP.NET MVC** and **SQL Server**.
 
 ### 2. [HR Management System](https://github.com/roe-sh/hr-management-system)
