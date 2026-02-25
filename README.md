@@ -38,7 +38,7 @@ An **HR system** built with **HTML**, **CSS**, **JavaScript**, and **C#**, desig
 ### 3. [E-Commerce System](https://github.com/roe-sh/e-commerce-system)
 A full-stack **e-commerce website** developed using **ASP.NET MVC**, **HTML**, **CSS**, and **SQL Server**.
 
-### 4. [Love Seed - Mother Care Platform](https://github.com/roe-sh/love-seed)
+### 4. [Love Seed - Mother Care Platform](https://github.com/roe-sh/projectangularmaster)
 A platform for **mothers and infants** featuring **user authentication** and **real-time health tracking**, built with **Angular** and **ASP.NET Core**.
 
 ---
